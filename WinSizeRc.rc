@@ -1,0 +1,8 @@
+IDR_HELPRTF  RT_HTML  "WINSIZE.RTF"
+IDC_HAND     CURSOR   "SELECT.CUR"
+
+STRINGTABLE
+{
+   100, "Abrir janelas selecionadas ?"
+}
+
